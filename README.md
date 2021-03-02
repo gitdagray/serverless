@@ -6,9 +6,7 @@
 
 In this tutorial, we build serverless functions with JavaScript and utilize continuous deployment with GitHub and Netlify.
 
-YouTube: [Serverless Functions](Link)
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/afac668c-f8d9-4102-8b98-c2fd218e4ae1/deploy-status)](https://app.netlify.com/sites/hungry-booth-791ad9/deploys)
+YouTube: [Serverless Functions](https://youtu.be/J7RKx8f4Frs)
 
 ### Academic Honesty
 
