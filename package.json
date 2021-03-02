@@ -1,0 +1,23 @@
+{
+  "name": "serverless_tut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitdagray/serverless.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitdagray/serverless/issues"
+  },
+  "homepage": "https://github.com/gitdagray/serverless#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
